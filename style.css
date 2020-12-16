@@ -1,0 +1,56 @@
+body{
+    font-family: "Raleway";
+    color: #363636;
+}
+
+.header{
+    display: block;
+    background-color: #e4e5e6;
+    padding: 80px 80px 60px 80px;
+}
+
+.header .profil{
+    display: inline-block;
+    width: auto;
+    height: 80px
+}
+
+.header .profil img{
+    width: auto;
+    height: 350px
+}
+
+.header .noms{
+    margin-bottom: 100px; 
+}
+
+.header .right{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.contact-moyens{
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.contact-moyens .icon{
+    display: inline-block;
+}
+
+.contact-moyens .moyen{
+    display: inline-block;
+}
+
+
+/* Fonction */
+@font-face{
+    font-family: "Raleway";
+    src: url("fonts/Raleway-Regular.ttf")
+    src: url("fonts/Raleway-Bold.ttf")
+}
+
+
+.suite{
+    padding: 80px 80px 60px 80px;
+}
